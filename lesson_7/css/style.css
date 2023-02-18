@@ -1,0 +1,199 @@
+@import url("reset.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,500,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600,700&display=swap");
+
+.header_vence {
+	font-family: 'Popins', sans-serif;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 1.67;
+	color: #E5E5E5;
+	height: 600px;
+	background-image: url(../img/vence/01.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin-bottom: 100px;
+}
+
+.header_vence_container {
+	max-width: 1240px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+.header_vence_date {
+	padding-top: 300px;
+	margin-bottom: 15px;
+}
+
+.header_vence_title {
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 1.6;
+	color: #F8F9FA;
+	max-width: 605px;
+	margin-bottom: 15px;
+}
+
+
+
+/* Unorder list */
+
+
+.unorder_list {
+	font-family: 'Inter';
+	font-weight: 700;
+	color: #637381;
+	line-height: 1;
+	margin-bottom: 50px;
+	background: radial-gradient(circle, rgba(2,0,36,0.8631827731092436) 12%, 
+	rgba(24,28,130,1) 29%, 
+	rgba(68,24,130,1) 44%, rgba(130,24,112,1) 61%,
+	 rgba(130,24,108,1) 74%, rgba(15,30,80,1) 93%);
+
+}
+.unorder_list_container {
+	max-width: 1160px;
+	margin: 0 auto;
+	padding: 15px 0 15px;
+}
+
+.unorder_list_title {
+	font-weight: 400;
+	font-size: 26px;
+	color: #fff;
+	margin-bottom: 40px;
+	display: block;
+}
+.unorder_list_list {
+}
+.list_column_1 {
+	margin-bottom: 68px;
+}
+
+.list_column_1 div{
+	display: inline-block;
+}
+.list_column_2 {
+}
+
+.list_column_2 div{
+	display: inline-block;
+}
+
+.list {
+	width: 309px;
+	height: 172px;
+}
+.list li{
+	min-height: 20px;
+}
+.list_1{
+	margin-right: 91px;
+
+}
+.list_1 li{
+	background: url("../img/list_ico/01.svg") 0 4px/ 8px no-repeat;
+	padding-left: 18px;
+	margin-bottom: 15px;
+	min-height: 16px;
+}
+.list_2 {
+	margin-right: 91px;
+}
+.list_2 li{
+	background: url("../img/list_ico/02.svg") 0 0/ 20px no-repeat;
+	padding-left: 30px;
+	margin-bottom: 18px;
+}
+.list_3 {
+}
+.list_3 li{
+	background: url("../img/list_ico/03.svg") 0 0/ 20px no-repeat;
+	padding-left: 30px;
+	margin-bottom: 18px;
+}
+.list_4 {
+	margin-right: 91px;
+}
+.list_4 li{
+	background: url("../img/list_ico/04.svg") 0 0/ 20px no-repeat;
+	padding-left: 30px;
+	margin-bottom: 18px;
+}
+.list_5 {
+	margin-right: 91px;
+}
+.list_5 li{
+	background: url("../img/list_ico/05.svg") 0 0/ 20px no-repeat;
+	padding-left: 30px;
+	margin-bottom: 18px;
+	padding-top: 2px;
+}
+.list_6 {
+}
+.list_6 li{
+	background: url("../img/list_ico/06.svg") 0 0/ 18px no-repeat;
+	padding-left: 28px;
+	margin-bottom: 18px;
+}
+
+/*=================== Herov Area==================== */
+.hero_area {
+	font-family: 'Inter';
+	font-weight: 500;
+	color: #637381;
+	max-height: 570px;
+	background: url("../img/hero_area/02.svg") 400px 0 / cover no-repeat , url("../img/hero_area/03.svg") 400px 0 / cover no-repeat;
+	background-color: #F4F7FF;
+}
+.hero_area_container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+.hero_area_body{
+	padding: 81px 0;
+
+}
+.hero_area_body img {
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 100%;
+}
+.hero_area_content {
+	display: inline-block;
+	vertical-align: middle;
+	width: 570px;
+	margin-right: 179px;
+}
+.hero_area_content h1{
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.25;
+	color: #212B36;
+	text-transform: capitalize;
+	margin-bottom: 15px;
+}
+.hero_area_text {
+	line-height: 1.5;
+	margin-bottom: 35px;
+}
+.hero_area_content a {
+	font-weight: 600;
+	line-height: 1.5;
+	color: #FFFFFF;
+	background: #3056D3;
+	width: 140px;
+	padding: 10px 30px;
+	border-radius: 30px;
+
+}
+.speaker_price {
+	font-weight: 600;
+	font-size: 16px;
+	color: #3056D3;
+	margin-bottom: 13px;
+}
