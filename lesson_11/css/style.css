@@ -297,12 +297,11 @@ body {
 	vertical-align: middle;
 }
 
-.header__action a,
-.header__action p {
+.header__action a {
 	display: inline-block;
 }
 
-.header__action p {
+.header__action span {
 	font-weight: 400;
 	font-size: 11px;
 	padding: 1px 5px;
