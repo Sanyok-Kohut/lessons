@@ -14,7 +14,8 @@
 	margin-bottom: 81px;
 }
 
-.main__catalog {
+.main__catalog:not(:last-child) {
+	margin-bottom: 50px;
 }
 
 /* ----------------------- */
