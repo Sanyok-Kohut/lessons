@@ -496,8 +496,8 @@
 	cursor: pointer;
 	background-image: url("../img/form-billing/arrow.svg");
 	background-repeat: no-repeat;
-	background-position: right 7% top 50%;
-	background-size: 16px auto;
+	background-position: right 4% top 50%;
+	background-size: 14px auto;
 }
 
 .form-order__input-body {
